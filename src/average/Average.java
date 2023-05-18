@@ -27,6 +27,7 @@ public class Average {
 	
 		}
 		System.out.println("Average is "+answer/args.length);
+	    system.out.println("gurleen, rajpreet");
 	}
 
     }
