@@ -8,6 +8,7 @@ package average;
 /**
  *
  * @author Deepanshu Arora,2023
+ * this is my new file
 
  */
 public class Average {
